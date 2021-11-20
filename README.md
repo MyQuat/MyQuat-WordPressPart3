@@ -1,1 +1,0 @@
-# MyQuat-WordPressPart3
